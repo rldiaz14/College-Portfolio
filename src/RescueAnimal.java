@@ -1,6 +1,6 @@
 
 public class RescueAnimal {
-
+//dog,monkey,rescues animal
 	 // Instance variable
     private String name;
     private String animalType;

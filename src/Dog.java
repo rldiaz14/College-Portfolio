@@ -3,7 +3,7 @@
 	//Ramon L. Diaz Ortiz
 	//Dr. Mahendra Gossai
 	//April/01/2021
-
+//Dog
 public class Dog extends RescueAnimal{
 
 	    // Instance variable
