@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class Driver {
 
 	
-		//Project
+		//Project1
 		private static Scanner scanner = new Scanner(System.in);
 		
 		
