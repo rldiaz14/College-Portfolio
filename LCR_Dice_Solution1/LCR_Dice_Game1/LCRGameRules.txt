@@ -1,0 +1,24 @@
+Welcome Player to Left Center Right Game!
+
+Left Center Right (LCR) is a multiplayer dice game with a minimum of three-player, but no more on the number of participants. The goal is to win all of the chips.
+
+
+There three dice that roll each turn.  Each die has the letters L, C, and R on the side. 
+On the three remaining sides are dots. These dice determine where the player chips will go. 
+
+The Dice
+
+For each L, the player must pass one chip to the player's sitting to the left.
+For each R, the player must pass one chip to the player's sitting to the Right.
+For each C, the player must place one chip into the center pot, and those chips are now outplaying.
+
+The Chips
+
+Each player will start with three chips.
+If a player only has one chip, he/she rolls only one die.
+If a player has two chips left, he/she rolls two dice. 
+Once a player is out of chips, he/she is still in the game (as he/she may get chips passed to him/her) but passes the dice to the next player.
+
+Winning the Game
+
+The winner is the last player with chips.
