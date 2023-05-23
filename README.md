@@ -25,5 +25,21 @@ Adding difficulty levels or varying rulesets
 Contribution
 Feel free to fork this project and improve in any way, and submit a pull request with your changes. Any contribution you make will be greatly appreciated.
 
-License
-This project is licensed under the terms of the MIT license.
+Rescue Animal System
+This project is a rescue animal system built using Java. The system provides functionality for the management of rescue animals, particularly dogs and monkeys.
+
+System Overview
+RescueAnimal.java: This is the base class for representing a rescue animal. It includes several attributes: name, animal type, gender, age, weight, acquisition date and country, reservation status, training status, and the country where the animal is in service.
+
+Dog.java: This class is an extension of the RescueAnimal class, representing a rescue dog. It introduces an additional attribute - breed.
+
+Monkey.java: Similar to Dog.java, this class extends RescueAnimal and represents a rescue monkey. It includes extra attributes such as tail length, species, height, and body length.
+
+Driver.java: This class hosts the main() method which runs the entire program. It provides a user interface that allows interaction with the rescue animal system. It includes methods for displaying the menu, initializing lists of dogs and monkeys, intake new dog or monkey, reserving an animal, and printing lists of animals.
+
+Features To Be Implemented
+intakeNewDog(): A method for adding a new dog to the system.
+intakeNewMonkey(): A method for adding a new monkey to the system.
+reserveAnimal(): A method for reserving an animal in the system.
+printAnimals(): A method for printing lists of animals, which supports three different outputs based on the listType parameter: dog, monkey, or available.
+Please feel free to contribute and make suggestions!
