@@ -1,5 +1,5 @@
-# School-Projects
-LCR Dice Game
+# IT Portfolio Of (C++, Java, C#)
+#LCR Dice Game
 
 Description
 
