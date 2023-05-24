@@ -1,6 +1,8 @@
 # School-Projects
 LCR Dice Game
+
 Description
+
 This project is an implementation of the Left Center Right (LCR) Dice Game. This classic, multiplayer dice game is programmed in C++, with a minimum requirement of three players, but no upper limit on the number of participants. The objective of the game is to win all of the chips.
 
 Features
