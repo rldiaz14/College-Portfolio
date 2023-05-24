@@ -47,3 +47,34 @@ intakeNewMonkey(): A method for adding a new monkey to the system.
 reserveAnimal(): A method for reserving an animal in the system.
 printAnimals(): A method for printing lists of animals, which supports three different outputs based on the listType parameter: dog, monkey, or available.
 Please feel free to contribute and make suggestions!
+
+
+
+
+The project you've shared seems to be a simple Course Registration System built with Windows Presentation Foundation (WPF) in C#. Here's a description for it that you can use on GitHub:
+
+# WPF Course Registration System
+
+This repository contains a basic Course Registration System, built using C# with Windows Presentation Foundation (WPF). The goal of the system is to allow users to register for IT courses, tracking their total registered credits.
+
+## Features:
+
+1. **Course Selection**: Users can choose from a list of available IT courses.
+
+2. **Credit Limit**: Users are limited to registering for a total of 9 credits (or three courses). An error message is displayed if a user tries to register for more than this limit.
+
+3. **Duplicate Registration Check**: The system checks if a user is attempting to register for a course they're already registered in, and if so, it shows an appropriate message.
+
+4. **Credit Display**: The total number of registered credits is displayed and updated as the user registers for more courses.
+
+## Classes:
+
+The application contains two main classes: 
+
+1. `MainWindow`: Represents the application window, handles user interactions, and manages the list of registered courses.
+   
+2. `Course`: Represents a single course. Each `Course` object has a name, and can be added to a user's list of registered courses.
+
+Please note that this project is a simple demonstration of a WPF application and may not include certain features you'd expect in a full-fledged course registration system, such as persisting data between sessions or handling multiple users. 
+
+Feel free to contribute to this project by submitting a pull request. Any contributions you make are greatly appreciated!
