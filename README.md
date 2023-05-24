@@ -16,9 +16,13 @@ End-Game Scenario: The game identifies and announces the last player with chips 
 
 #How To Play
 Each player starts with three chips. On their turn, players roll three dice, each marked with L, C, R, and dots.
+
 For each 'L' or 'R' rolled, players pass one chip to the player on their left or right respectively. For each 'C', they put one chip in the center. Dots have no effect.
+
 If a player has fewer than three chips, they roll only as many dice as they have chips.
+
 Players who have no chips are not out, they may receive chips from others. The game continues until only one player has chips left.
+
 Installation
 To play the game, clone the repository, compile the source code using a C++ compiler, and then run the resulting executable.
 
